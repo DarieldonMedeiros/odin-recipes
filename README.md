@@ -3,7 +3,7 @@
 ## About
 
 This is a simple website that shows three recipes, when you click you are redirected to the selected recipe! All recipes are from [AllRecipes](https://www.allrecipes.com).
-This is my ![Odin Recipe](https://darieldonmedeiros.github.io/odin-recipes/)
+This is my [Odin Recipe](https://darieldonmedeiros.github.io/odin-recipes/)
 
 I had to zoom out on the recipe pages to fit all the recipes.
 
